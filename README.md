@@ -1,6 +1,7 @@
 # Hi there, I'm Karthik! 👋
 
-🚀 **Code Alchemist** | 🛠️ **Full-stack Developer** | ☁️ **Cloud Explorer**  
+🚀 **Code Alchemist** | 🛠️ **Full-stack Dev** | ☁️ **Cloud Explorer**  
+
 💡 Turning caffeine into code & ideas into scalable solutions. If it's trending, I've probably tried breaking it.  
 
 ---
