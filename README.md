@@ -1,42 +1,40 @@
-# Hi there, I'm Karthik! 👋
+<!-- README.md -->
 
-👨‍💻 Writing code, breaking things & fixing them... 🔄
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Karthik!+%F0%9F%91%8B;Full-Stack+Craftsman+%F0%9F%94%A5;Cloud+Engineer+%7C+System+Designer+%E2%9C%A8;Breaking+Things+%E2%9C%94%EF%B8%8F+Fixing+Them+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
+</h1>
 
-💡 Turning caffeine into code & ideas into scalable solutions. If it's trending, I've probably tried breaking it.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="code gif" />
+</p>
 
----
-
-##  About Me
-
-🔥 **Tech Enthusiast** – From mar-tech to startups, I build scalable, high-performance applications.  
-🌍 **Full-Stack Developer** – Crafting seamless UI with **React.js** and robust backends with **Node.js & .NET**.  
-☁️ **Cloud & DevOps** – Optimizing workloads with **AWS & GCP**, ensuring efficiency and reliability.  
-🚀 **Exploring the Future** – Diving into **Kubernetes & CNCF projects** for next-gen cloud solutions, while experimenting with **LLMs & AI**.  
-✍️ **Sharing Insights** – Writing about **System Design & Tech** in my [Newsletter](#).  
-
----
-##  Tech Stack
-
-### **Frontend Magic**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)&nbsp;&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)&nbsp;&nbsp;
-![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)&nbsp;&nbsp;
-
-### **Backend Powerhouse**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)&nbsp;&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)&nbsp;&nbsp;
-
-### **Cloud & DevOps Toolkit**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)&nbsp;&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)&nbsp;&nbsp;
+<p align="center">
+  <strong>💡 Turning caffeine into code & ideas into scalable tech. If it's trending, I've probably tried breaking it.</strong>
+</p>
 
 ---
 
-## 🤝 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kkr15/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthikeyankrit@gmail.com)  
+## ⚡ About Me
 
----
+```diff
+🔥 Tech Enthusiast       - From mar-tech to startups, I build scalable, high-performance apps.
+🌍 Full-Stack Developer  - UI magic with React.js + powerful APIs in Node.js & .NET.
+☁️ Cloud & DevOps        - Deploying, optimizing, scaling with AWS & GCP.
+🚀 Exploring the Future  - Kubernetes | CNCF Projects | LLMs | Voice AI | Automation.
+✍️ Content Creator       - Writing about System Design & Architecture in my [Newsletter](#).
+```
+## Tech Stack
 
-💡 *Always open to collaborating on exciting projects & contributing to open-source!* 🚀
+🎨 Frontend Magic
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white" /> </p>
+
+⚙️ Backend Powerhouse
+<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> </p>
+
+☁️ Cloud & DevOps
+<p> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> </p>
+
+## Connect
+
+<p> <a href="https://www.linkedin.com/in/kkr15/"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:karthikeyankrit@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&center=true&vCenter=true&color=F7FF00&width=450&lines=Open+to+collaborations!+🚀;Building+cool+stuff+for+real+impact+%F0%9F%92%BB;Always+learning+%F0%9F%93%9A+Always+building+%F0%9F%9B%A0" alt="Collab typing" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /> </p> 
